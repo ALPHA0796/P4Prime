@@ -26,7 +26,7 @@ topo/FatTree6/log/*.log
 *.log
 
 # CSV/Results
-res.csv
+/res.csv
 res.txt
 
 # OS
